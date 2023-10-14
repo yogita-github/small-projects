@@ -1,0 +1,19 @@
+#countLabel{
+	display: block;
+	text-align: center;
+	font-size: 50px;
+	justify-content: center;
+	margin-top: 100px;
+}
+button{
+	margin-left: 300px;
+	margin-top: 300px;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	height: 50px;
+	width: 100px;
+	border-radius: 20px;
+background: pink;
+}
+
